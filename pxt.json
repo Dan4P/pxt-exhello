@@ -21,12 +21,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
-    "extension": {
-        "namespace": "exhello",
-        "url": "localeditorextensions=1",
-        "localurl": "http://localhost:8000",
-        "group": "Input model",
-        "label": "input"
-    }
+    "preferredEditor": "blocksprj"
 }
