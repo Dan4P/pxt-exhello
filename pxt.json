@@ -22,4 +22,11 @@
         "microbit"
     ],
     "preferredEditor": "tsprj"
+    "extension": {
+        "namespace": "hello",
+        "url": "localeditorextensions=1",
+        "localurl": "http://localhost:8000",
+        "group": "Input model",
+        "label": "input"
+    }
 }
