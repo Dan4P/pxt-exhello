@@ -1,4 +1,4 @@
-namespace hello {
+namespace exhello {
     //%block
     export function showHi() {
         led.toggle(0, 0)
